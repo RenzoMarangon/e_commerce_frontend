@@ -1,70 +1,40 @@
-# Getting Started with Create React App
+SPA realizada con React, utilizando Hooks y Router-dom.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Dependencias utilizadas:
 
-## Available Scripts
+    *Material UI (componentes + iconos)
+    *Firebase (FireStore, Storage, Authentication)
+    *Font Awesome Icons
 
-In the project directory, you can run:
+Funciones que puede realizar la SPA:
 
-### `npm start`
+    *Agregar/borrar productos al carrito
+    *Generar un ticket de compra en base a los productos del carrito
+    *Registrar/Loguear usuarios
+    *Guardar productos, usuarios, fotos de perfil y tickets de compra en la base de datos
+    *Navegar a través de las diferents partes de la página a traves del Router-dom
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<a  href="https://www.loom.com/share/3b1c27401d1042bda79e4a48bb7604b7">
+    <p>Bolucompras - Demo</p>
+    <img style="max-width:300px; margin: 1rem 0;" src="https://cdn.loom.com/sessions/thumbnails/3b1c27401d1042bda79e4a48bb7604b7-with-play.gif">
+</a>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<a href="https://www.loom.com/share/6c3ef35d438b47139958721973c546c6">
+    <p>Bolucompras - User register test</p>
+    <img style="max-width:300px;margin: 1rem 0;" src="https://cdn.loom.com/sessions/thumbnails/6c3ef35d438b47139958721973c546c6-with-play.gif">
+</a>
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<a href="https://www.loom.com/share/ae3e068be08d4c04bbc9add20922bf34">
+    <p>Bolucompras - Test CartWidget</p>
+    <img style="max-width:300px;margin: 1rem 0;" src="https://cdn.loom.com/sessions/thumbnails/ae3e068be08d4c04bbc9add20922bf34-with-play.gif">
+</a>
 
-### `npm run build`
+<a href="https://www.loom.com/share/cc2c5fcbef3643e9b230fcc02b477402">
+    <p>Bolucompras - Ticket Test</p>
+    <img style="max-width:300px;margin: 1rem 0;" src="https://cdn.loom.com/sessions/thumbnails/cc2c5fcbef3643e9b230fcc02b477402-with-play.gif">
+</a>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
